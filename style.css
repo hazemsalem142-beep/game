@@ -54,7 +54,7 @@
             border: 3px dashed silver;
             position: relative;
             top: 380px;
-            left: 350px;
+            left: 300px;
             background: gray;
             transition: 1.5s;
         }
@@ -64,3 +64,4 @@
         }
 
 }
+
